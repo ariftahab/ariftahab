@@ -2,6 +2,8 @@
 
 Computer engineering student working on **retrieval-augmented generation (RAG) and LLM agents**, with a parallel interest in **embedded systems**. I like building things end to end, from document ingestion and retrieval to a usable interface, and measuring whether each change actually helps. Outside of code I'm a cyclist, which led to one of my projects below.
 
+**Contact:** [LinkedIn](https://www.linkedin.com/in/arif-taha-b%C3%BClb%C3%BCl-824a451b4/)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
