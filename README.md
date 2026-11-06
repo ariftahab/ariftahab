@@ -16,7 +16,7 @@ A Turkish RAG chatbot that answers students' questions about the regulations of 
 - **App:** FastAPI REST API, vanilla JS web UI with clickable citation panel, admin panel for labeling answers
 - **Evaluation:** custom experiment runner, McNemar / Wilcoxon tests, auto-generated experiment log
 
-### agentic-rag *(private repository)*
+### (agentic-rag)(https://github.com/ariftahab/agentic-rag)
 An agentic advising assistant for engineering-faculty students and advisors, built on the mevzuat-rag architecture. Instead of a single retrieval step, an LLM decides which tools to call, such as regulation search, course-schedule lookup or transcript-based graduation and GPA checks, while the actual calculations run in deterministic code. The agent loop is hand-written rather than framework-based, a choice recorded in an architecture decision record, and changes are evaluated through the same reproducible experiment workflow.
 
 - **Agent:** tool-calling loop with LangChain `bind_tools` + Gemini; an experimental Claude (Anthropic SDK) code-execution variant
