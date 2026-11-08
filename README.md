@@ -2,7 +2,7 @@
 
 Computer engineering student working on **retrieval-augmented generation (RAG) and LLM agents**, with a parallel interest in **embedded systems**. I like building things end to end, from document ingestion and retrieval to a usable interface, and measuring whether each change actually helps. Outside of code I'm a cyclist, which led to one of my projects below.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/arif-taha-b%C3%BClb%C3%BCl-824a451b4/)
+**Website:** [ariftahab.github.io](https://ariftahab.github.io) · **Contact:** [LinkedIn](https://www.linkedin.com/in/arif-taha-b%C3%BClb%C3%BCl-824a451b4/)
 
 ---
 
@@ -67,5 +67,6 @@ A single-user personal assistant harness built with LangGraph, focused on **memo
 
 ## Contact
 
+- Website: [ariftahab.github.io](https://ariftahab.github.io)
 - GitHub: [github.com/ariftahab](https://github.com/ariftahab)
 <!-- LinkedIn: TODO -->
