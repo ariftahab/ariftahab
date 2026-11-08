@@ -46,7 +46,8 @@ A single-user personal assistant harness built with LangGraph, focused on **memo
 ## Other projects
 
 - **[STM32-GPS](https://github.com/ariftahab/STM32-GPS)**: A GPS location tracker on an **STM32H743** microcontroller, built for an embedded systems course during my Erasmus exchange. It reads the NMEA stream from a NEO-6M module over UART using interrupt-driven reception into a ring buffer, filters `$GPGGA` sentences, and parses UTC time, latitude and longitude. *C, STM32 HAL, UART/interrupts, SWD debugging with ST-Link.*
-- **Smaller / private work:** structured study notes on RAG systems; a first exploratory data analysis with pandas (Titanic dataset); a blog site built with Next.js and Strapi.
+- **Smaller / private work:** structured study notes on RAG systems; a first exploratory data analysis with pandas (Titanic dataset).
+- **[Personal website](https://ariftahab.github.io)** ([source](https://github.com/ariftahab/ariftahab.github.io)): projects and writing, built with Astro as a static site and deployed to GitHub Pages. System diagrams are rendered to SVG at build time.
 
 ---
 
@@ -69,4 +70,4 @@ A single-user personal assistant harness built with LangGraph, focused on **memo
 
 - Website: [ariftahab.github.io](https://ariftahab.github.io)
 - GitHub: [github.com/ariftahab](https://github.com/ariftahab)
-<!-- LinkedIn: TODO -->
+- LinkedIn: [arif-taha-bülbül](https://www.linkedin.com/in/arif-taha-b%C3%BClb%C3%BCl-824a451b4/)
